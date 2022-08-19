@@ -58,9 +58,8 @@
 
                         <h4>Member's</h4>
 
-                        <p class="text-muted">Mohammad Hemayet Ullah [2016-2-60-146]</p>
-                        <p class="text-muted">Bonosree Roy [2016-2-60-097]</p>
-                        <p class="text-muted">Lima Akter Setu [2016-1-60-]</p>
+                        <p class="text-muted">Md Saifur Rahman [2018-1-60-048]</p>
+                        
                         <hr>
 
 
@@ -87,7 +86,7 @@
         <div id="copyright">
             <div class="container">
                 <div class="col-md-6">
-                    <p class="pull-left">© 2015 Hemayet Ullah.</p>
+                    <p class="pull-left">© 2018 Md Saifur Rahman.</p>
 
                 </div>
                 <div class="col-md-6">
