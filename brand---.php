@@ -77,8 +77,6 @@
                                             </a>
                             </div>
                         </div>
-
-
                         
                     <?php }/// end of while
                     ?>
